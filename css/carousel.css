@@ -2,7 +2,7 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 body {
-  background-image:http://thumbs.dreamstime.com/x/web-design-background-13024121.jpg;
+  background-image:
 }
 
 
@@ -11,7 +11,7 @@ body {
 }
 
 body {
-  padding-bottom: 60px;
+  padding-bottom: 100px;
   color: red;
 }
 
