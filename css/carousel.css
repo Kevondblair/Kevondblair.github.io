@@ -2,12 +2,12 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 body {
-  background-color:#;
+  background-color:#000000;
 }
 
 body {
   padding-bottom: 60px;
-  color: black;
+  color: red;
 }
 
 
